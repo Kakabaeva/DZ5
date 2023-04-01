@@ -1,0 +1,15 @@
+/Users/eminakakabaeva/Desktop/DZ5/bin/Debug/net6.0/DZ5
+/Users/eminakakabaeva/Desktop/DZ5/bin/Debug/net6.0/DZ5.deps.json
+/Users/eminakakabaeva/Desktop/DZ5/bin/Debug/net6.0/DZ5.runtimeconfig.json
+/Users/eminakakabaeva/Desktop/DZ5/bin/Debug/net6.0/DZ5.dll
+/Users/eminakakabaeva/Desktop/DZ5/bin/Debug/net6.0/DZ5.pdb
+/Users/eminakakabaeva/Desktop/DZ5/obj/Debug/net6.0/DZ5.csproj.AssemblyReference.cache
+/Users/eminakakabaeva/Desktop/DZ5/obj/Debug/net6.0/DZ5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eminakakabaeva/Desktop/DZ5/obj/Debug/net6.0/DZ5.AssemblyInfoInputs.cache
+/Users/eminakakabaeva/Desktop/DZ5/obj/Debug/net6.0/DZ5.AssemblyInfo.cs
+/Users/eminakakabaeva/Desktop/DZ5/obj/Debug/net6.0/DZ5.csproj.CoreCompileInputs.cache
+/Users/eminakakabaeva/Desktop/DZ5/obj/Debug/net6.0/DZ5.dll
+/Users/eminakakabaeva/Desktop/DZ5/obj/Debug/net6.0/refint/DZ5.dll
+/Users/eminakakabaeva/Desktop/DZ5/obj/Debug/net6.0/DZ5.pdb
+/Users/eminakakabaeva/Desktop/DZ5/obj/Debug/net6.0/DZ5.genruntimeconfig.cache
+/Users/eminakakabaeva/Desktop/DZ5/obj/Debug/net6.0/ref/DZ5.dll
